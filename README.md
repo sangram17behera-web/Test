@@ -1,2 +1,1 @@
-This Is  A Sample Test Box
-Use MessageBox.activity To Do this Action
+This is a simple project in UiPath that shows a welcome message box.
